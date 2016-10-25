@@ -43,5 +43,14 @@
   "name": "Dropbox Backup-Client", 
   "script": "frappe.ui.form.on(\"Dropbox Backup\", \"refresh\", function(frm){\n\tif(frm.doc.send_backups_to_dropbox){\n\t\tfrm.add_custom_button(__(\"Take Backup\"), function() {\n\t\t\tfrappe.call({\n\t\t\t\tmethod: \"frappe.integrations.doctype.dropbox_backup.dropbox_backup.take_backups_dropbox\",\n\t\t\t\tfreeze: true,\n\t\t\t\tfreeze_message: __(\"Taking backup\"),\n\t\t\t\tcallback: function(r){\n\t\t\t\t\tif(!r.exc) {\n\t\t\t\t\t\tfrappe.msgprint(__(\"Backup taken successfully\"));\n\t\t\t\t\t} else {\n\t\t\t\t\t\tfrappe.msgprint(__(\"Error while taking backup. <br /> \" + r.exc));\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t});\n\t\t})\t\n\t}\n});", 
   "script_type": "Client"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Item", 
+  "modified": "2016-10-22 12:16:37.020404", 
+  "name": "Item-Client", 
+  "script": "frappe.ui.form.on(\"Item\", \"onload\", function(frm) {\n     $( window ).load(function() {\n      $(\".editor-toolbar-code-group\").append('<a class=\"btn btn-default btn-small hidden-xs msdsbtn\" title=\"MSDS\">MSDS</a>');\n\nmsgprint(\"hi\");\n});\n});\n\nfrappe.ui.form.on(\"Item\", \"add_msds\", function(frm) {\n\nvar msds = \"\";\nmsds = '<h2 class=\"item-msds\">'\n\t\t+'<a href=\"'+cur_frm.doc.msds+'\" rel=\"nofollow\" target=\"_blank\">MSDS LINK</a>'\n\t\t+'</h2>';\ncur_frm.set_value(\"web_long_description\",msds)\nmsgprint(\"added msds to website\");\n\n});", 
+  "script_type": "Client"
  }
 ]
