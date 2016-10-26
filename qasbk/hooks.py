@@ -81,6 +81,26 @@ fixtures = ['Custom Field', 'Property Setter', "Custom Script","Print Format"]
 #	}
 # }
 
+# after_insert
+doc_events = {
+	"Quotation": {
+		"after_insert": "qasbk.qasbk.custom_methods.share_doc_with_owner",
+		"validate": "qasbk.qasbk.custom_methods.validate_share"
+	},
+	"Sales Order": {
+		"after_insert": "qasbk.qasbk.custom_methods.share_doc_with_owner",
+		"validate": "qasbk.qasbk.custom_methods.validate_share"
+	},
+	"Delivery Note": {
+		"after_insert": "qasbk.qasbk.custom_methods.share_doc_with_owner",
+		"validate": "qasbk.qasbk.custom_methods.validate_share"
+	},
+	"Sales Invoice": {
+		"after_insert": "qasbk.qasbk.custom_methods.share_doc_with_owner",
+		"validate": "qasbk.qasbk.custom_methods.validate_share"
+	},
+}
+
 # Scheduled Tasks
 # ---------------
 
