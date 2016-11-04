@@ -97,11 +97,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-08-02 09:19:39.001221", 
+  "modified": "2016-11-01 10:33:30.210555", 
   "name": "Supplier-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-SUPP-16-AUG-\nCT-AE-SUPP-16-AUG-"
+  "value": "\nCT-QA-SUPP-16-NOV-.##"
  }, 
  {
   "default_value": null, 
@@ -110,11 +110,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:05:16.767937", 
+  "modified": "2016-11-01 10:33:55.220579", 
   "name": "Supplier Quotation-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CT-AE-REQ-16-OCT-.###"
+  "value": "CT-QA-REQ-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -136,7 +136,7 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-10-12 12:56:51.627875", 
+  "modified": "2016-11-01 10:31:12.824290", 
   "name": "Quotation-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
@@ -149,11 +149,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-10-12 12:56:51.687413", 
+  "modified": "2016-11-01 10:31:12.870124", 
   "name": "Quotation-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-QTN-16-OCT-.###\nCT-QA-QTN-SC-16-OCT-.###"
+  "value": "\nCT-QA-QTN-16-NOV-.###\nCT-QA-QTN-SC-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -175,7 +175,7 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:52:37.055982", 
+  "modified": "2016-10-29 11:39:41.111071", 
   "name": "Delivery Note-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
@@ -188,11 +188,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:52:37.110638", 
+  "modified": "2016-10-29 11:39:41.174779", 
   "name": "Delivery Note-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-DN-16-OCT-.###"
+  "value": "\nCT-QA-DN-16-OCT-.###\nCT-QA-DN-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -201,7 +201,7 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:57:13.783126", 
+  "modified": "2016-11-01 10:27:59.151223", 
   "name": "Journal Entry-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
@@ -214,11 +214,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:57:13.845629", 
+  "modified": "2016-11-01 10:27:59.211393", 
   "name": "Journal Entry-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-JV-16-OCT-.###\nCT-QA-JV-AUG-.##\nCT-QA-JV-SEP-.##\nCT-QA-JV-16-JUL-\nCT-QA-JV-16-JUN-\nCT-QA-JV-16-MAY-\nCT-QA-JV-16-APR-\nCT-QA-JV-16-MAR-\nCT-QA-JV-16-FEB-\nCT-QA-JV-15-12-##\nCT-QA-JV-15-11-##\nCT-QA-JV-15-10-##\nCT-QA-JV-16-01-##"
+  "value": "\nCT-QA-JV-16-NOV-.###\nCT-QA-JV-16-OCT-.###\nCT-QA-JV-AUG-.##\nCT-QA-JV-SEP-.##\nCT-QA-JV-16-JUL-\nCT-QA-JV-16-JUN-\nCT-QA-JV-16-MAY-\nCT-QA-JV-16-APR-\nCT-QA-JV-16-MAR-\nCT-QA-JV-16-FEB-\nCT-QA-JV-15-12-##\nCT-QA-JV-15-11-##\nCT-QA-JV-15-10-##\nCT-QA-JV-16-01-##"
  }, 
  {
   "default_value": null, 
@@ -227,7 +227,7 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-10-01 13:35:38.827004", 
+  "modified": "2016-11-01 10:30:23.580556", 
   "name": "Purchase Order-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
@@ -240,11 +240,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-10-01 13:35:38.879267", 
+  "modified": "2016-11-01 10:30:23.630846", 
   "name": "Purchase Order-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-P0-16-OCT-.###"
+  "value": "\nCT-QA-P0-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -253,11 +253,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:04:03.473897", 
+  "modified": "2016-11-01 11:26:09.618831", 
   "name": "Sales Invoice-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": ""
+  "value": "CT-QA-INV-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -266,11 +266,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:04:03.528033", 
+  "modified": "2016-11-01 11:26:09.665791", 
   "name": "Sales Invoice-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-INV-16-OCT-.###"
+  "value": "CT-QA-INV-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -279,11 +279,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:04:25.512294", 
+  "modified": "2016-11-01 10:31:58.951064", 
   "name": "Sales Order-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "CT-QA-SO-16-OCT-.###"
+  "value": "CT-QA-SO-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -292,11 +292,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:04:25.567098", 
+  "modified": "2016-11-01 10:31:58.996563", 
   "name": "Sales Order-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CT-QA-SO-16-OCT-.###"
+  "value": "CT-QA-SO-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -344,11 +344,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:58:48.995044", 
+  "modified": "2016-11-01 10:29:26.602571", 
   "name": "Opportunity-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CT-QA-OPTY-16-OCT-.###"
+  "value": "CT-QA-OPTY-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -682,11 +682,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:04:46.173895", 
+  "modified": "2016-11-01 10:32:41.309178", 
   "name": "Stock Entry-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CT-QA-STE-16-OCT.##"
+  "value": "CT-QA-STE-16-NOV.##"
  }, 
  {
   "default_value": null, 
@@ -734,11 +734,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:05:16.710560", 
+  "modified": "2016-11-01 10:33:55.172778", 
   "name": "Supplier Quotation-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "CT-AE-REQ-16-OCT-.###"
+  "value": "CT-QA-REQ-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -955,11 +955,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:01:08.357620", 
+  "modified": "2016-11-01 10:30:06.773083", 
   "name": "Purchase Invoice-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-PI-16-OCT-.##"
+  "value": "\nCT-QA-PI-16-NOV-.##"
  }, 
  {
   "default_value": null, 
@@ -1059,11 +1059,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:02:18.115954", 
+  "modified": "2016-11-01 10:30:45.495946", 
   "name": "Purchase Receipt-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CT-QA-PREC-16-OCT.##"
+  "value": "CT-QA-PREC-16-NOV.##\nCT-QA-PREC-16-OCT.##"
  }, 
  {
   "default_value": null, 
@@ -1111,7 +1111,7 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:01:08.294252", 
+  "modified": "2016-11-01 10:30:06.715506", 
   "name": "Purchase Invoice-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
@@ -1176,11 +1176,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:04:46.108118", 
+  "modified": "2016-11-01 10:32:41.262392", 
   "name": "Stock Entry-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "CT-QA-STE-16-OCT.##"
+  "value": "CT-QA-STE-16-NOV.##"
  }, 
  {
   "default_value": null, 
@@ -1436,7 +1436,7 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-08-02 09:19:38.983039", 
+  "modified": "2016-11-01 10:33:30.162738", 
   "name": "Supplier-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
@@ -2229,7 +2229,7 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:59:27.233213", 
+  "modified": "2016-11-01 10:29:48.857730", 
   "name": "Payment Entry-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
@@ -2242,11 +2242,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:59:27.289277", 
+  "modified": "2016-11-01 10:29:48.904515", 
   "name": "Payment Entry-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "\nCT-QA-PE-16-OCT-.###\nCT-QA-PE-2016-SEP-.##"
+  "value": "\nCT-QA-PE-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -2255,11 +2255,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:03:42.238815", 
+  "modified": "2016-11-01 10:31:27.787895", 
   "name": "Request for Quotation-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "CT-QA-RFQ-16-OCT-.###"
+  "value": "CT-QA-RFQ-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -2268,11 +2268,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:03:42.304765", 
+  "modified": "2016-11-01 10:31:27.843692", 
   "name": "Request for Quotation-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CT-QA-RFQ-16-OCT-.###"
+  "value": "CT-QA-RFQ-16-NOV-.###\nCT-QA-RFQ-16-OCT-.###"
  }, 
  {
   "default_value": null, 
@@ -2294,11 +2294,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 16:02:18.049632", 
+  "modified": "2016-11-01 10:30:45.438556", 
   "name": "Purchase Receipt-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "CT-QA-PREC-16-OCT.##"
+  "value": "CT-QA-PREC-16-NOV.##"
  }, 
  {
   "default_value": null, 
@@ -2385,11 +2385,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-09-30 15:58:48.925712", 
+  "modified": "2016-11-01 10:29:26.553781", 
   "name": "Opportunity-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "CT-QA-OPTY-16-OCT-.###"
+  "value": "CT-QA-OPTY-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -2476,11 +2476,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-10-19 18:45:54.067226", 
+  "modified": "2016-11-01 10:32:25.367438", 
   "name": "Service-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "CT-QA-SR-16-OCT-.###"
+  "value": "CT-QA-SR-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -2489,11 +2489,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-10-19 18:45:54.116445", 
+  "modified": "2016-11-01 10:32:25.413923", 
   "name": "Service-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CT-QA-SR-16-OCT-.###"
+  "value": "CT-QA-SR-16-NOV-.###"
  }, 
  {
   "default_value": null, 
@@ -2517,19 +2517,6 @@
   "field_name": null, 
   "modified": "2016-10-19 22:35:32.593353", 
   "name": "Website Script-read_only_onload", 
-  "property": "read_only_onload", 
-  "property_type": "Check", 
-  "value": null
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocType", 
-  "field_name": null, 
-  "modified": "2016-10-22 12:06:40.761181", 
-  "name": "Item-read_only_onload", 
   "property": "read_only_onload", 
   "property_type": "Check", 
   "value": null
@@ -2572,5 +2559,31 @@
   "property": "default", 
   "property_type": "Text", 
   "value": "All Territories"
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Purchase Receipt", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocType", 
+  "field_name": null, 
+  "modified": "2016-10-31 11:54:50.202200", 
+  "name": "Purchase Receipt-read_only_onload", 
+  "property": "read_only_onload", 
+  "property_type": "Check", 
+  "value": null
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocType", 
+  "field_name": null, 
+  "modified": "2016-11-04 18:47:34.488986", 
+  "name": "Item-read_only_onload", 
+  "property": "read_only_onload", 
+  "property_type": "Check", 
+  "value": null
  }
 ]
