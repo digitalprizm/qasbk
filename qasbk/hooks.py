@@ -10,7 +10,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "k.s@gmail.com"
 app_license = "MIT"
-
+hide_in_installer = True
 
 fixtures = ['Custom Field', 'Property Setter', "Custom Script","Print Format"]
 
