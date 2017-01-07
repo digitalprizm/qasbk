@@ -18,6 +18,12 @@ def get_data():
 					"name": "Delivery Note",
 					"description": _("Delivery Note for Customers."),
 				},
+				{
+                                        "type": "doctype",
+                                        "name": "Job Master",
+                                        "description": _("Job Master Details"),
+                                },
+
 			]
 		},
 	]
