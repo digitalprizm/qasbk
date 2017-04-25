@@ -1,5 +1,9 @@
 [
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -13,6 +17,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -26,6 +34,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Payment Entry", 
   "docstatus": 0, 
@@ -39,6 +51,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Employee", 
   "docstatus": 0, 
@@ -52,6 +68,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Employee", 
   "docstatus": 0, 
@@ -65,6 +85,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Employee", 
   "docstatus": 0, 
@@ -78,6 +102,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Employee", 
   "docstatus": 0, 
@@ -91,6 +119,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -104,6 +136,10 @@
   "value": "CUST-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Employee", 
   "docstatus": 0, 
@@ -117,6 +153,10 @@
   "value": "EMP/"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -130,6 +170,10 @@
   "value": "CTQA.ITEM-16-OCT-.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -143,6 +187,10 @@
   "value": "\nCT-QA-SUPP-16-NOV-.##"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier Quotation", 
   "docstatus": 0, 
@@ -156,6 +204,10 @@
   "value": "\nCT-QA-REQ-2017-MAR.###\nCT-QA-REQ-2017-APR.###\nCT-QA-REQ-2017-MAY.###\nCT-QA-REQ-2017-JUN.###\nCT-QA-REQ-2017-FEB.###\nCT-QA-REQ-2017-JAN.###\nCT-QA-REQ-16-DEC-.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Material Request", 
   "docstatus": 0, 
@@ -169,6 +221,10 @@
   "value": "\nCT-QA-MREQ-2017-MAR-.###\nCT-QA-MREQ-2017-APR-.###\nCT-QA-MREQ-2017-MAY-.###\nCT-QA-MREQ-2017-JUN-.###\nCT-QA-MREQ-2017-FEB-.###\nCT-QA-MREQ-2017-JAN-.###\nCT-QA-MREQ-16-DEC-.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -182,6 +238,10 @@
   "value": "QTN-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation Item", 
   "docstatus": 0, 
@@ -195,6 +255,10 @@
   "value": "Stock UOM"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -208,6 +272,10 @@
   "value": "DN-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -221,6 +289,10 @@
   "value": "DN-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry", 
   "docstatus": 0, 
@@ -234,6 +306,10 @@
   "value": "JV-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry", 
   "docstatus": 0, 
@@ -247,6 +323,10 @@
   "value": "JV-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Order", 
   "docstatus": 0, 
@@ -260,6 +340,10 @@
   "value": "P0-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Order", 
   "docstatus": 0, 
@@ -273,6 +357,10 @@
   "value": "P0-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -286,6 +374,10 @@
   "value": "SINV-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -299,6 +391,10 @@
   "value": "SINV-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -312,6 +408,10 @@
   "value": "SO-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -325,6 +425,10 @@
   "value": "SO-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Communication", 
   "docstatus": 0, 
@@ -338,6 +442,10 @@
   "value": "COMM-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Communication", 
   "docstatus": 0, 
@@ -351,6 +459,10 @@
   "value": "COMM-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -364,6 +476,10 @@
   "value": "[\"delivery_to_section\", \"column_break0\", \"naming_series\", \"customer\", \"customer_name\", \"customer_address\", \"address_display\", \"shipping_address_name\", \"shipping_address\", \"contact_display\", \"contact_mobile\", \"contact_email\", \"column_break1\", \"amended_from\", \"company\", \"posting_date\", \"po_no\", \"po_date\", \"sales_person\", \"delivery_boy\", \"is_return\", \"return_against\", \"currency_and_price_list\", \"currency\", \"conversion_rate\", \"col_break23\", \"selling_price_list\", \"price_list_currency\", \"plc_conversion_rate\", \"ignore_pricing_rule\", \"items_section\", \"items\", \"packing_list\", \"packed_items\", \"product_bundle_help\", \"section_break_31\", \"base_total\", \"base_net_total\", \"column_break_33\", \"total\", \"net_total\", \"taxes_section\", \"taxes_and_charges\", \"column_break_39\", \"shipping_rule\", \"section_break_41\", \"taxes\", \"other_charges_calculation\", \"section_break_44\", \"base_total_taxes_and_charges\", \"column_break_47\", \"total_taxes_and_charges\", \"section_break_49\", \"apply_discount_on\", \"column_break_51\", \"discount_amount\", \"base_discount_amount\", \"totals\", \"base_grand_total\", \"base_rounded_total\", \"base_in_words\", \"column_break3\", \"grand_total\", \"rounded_total\", \"in_words\", \"fold\", \"terms_section_break\", \"tc_name\", \"terms\", \"transporter_info\", \"transporter_name\", \"col_break34\", \"lr_no\", \"lr_date\", \"contact_info\", \"territory\", \"customer_group\", \"col_break21\", \"contact_person\", \"more_info\", \"project_name\", \"campaign\", \"source\", \"column_break5\", \"posting_time\", \"fiscal_year\", \"letter_head\", \"select_print_heading\", \"print_without_amount\", \"section_break_83\", \"status\", \"per_installed\", \"installation_status\", \"column_break_89\", \"to_warehouse\", \"excise_page\", \"instructions\", \"sales_team_section_break\", \"sales_partner\", \"column_break7\", \"commission_rate\", \"total_commission\", \"section_break1\", \"sales_team\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Opportunity", 
   "docstatus": 0, 
@@ -377,6 +493,10 @@
   "value": "CT-QA-OPTY-2017-JAN.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -390,6 +510,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -403,6 +527,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Party Account", 
   "docstatus": 0, 
@@ -416,6 +544,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Party Account", 
   "docstatus": 0, 
@@ -429,6 +561,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry", 
   "docstatus": 0, 
@@ -442,6 +578,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -455,6 +595,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -468,6 +612,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -481,6 +629,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -494,6 +646,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -507,6 +663,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -520,6 +680,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -533,6 +697,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -546,6 +714,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -559,6 +731,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -572,6 +748,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -585,6 +765,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -598,6 +782,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -611,6 +799,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -624,6 +816,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -637,6 +833,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -650,6 +850,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -663,6 +867,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -676,6 +884,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -689,6 +901,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -702,6 +918,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Stock Entry", 
   "docstatus": 0, 
@@ -715,6 +935,10 @@
   "value": "CT-QA-STE-2017-JAN.##\nCT-QA-STE-16-DEC.##"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -728,6 +952,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -741,6 +969,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Email Account", 
   "docstatus": 0, 
@@ -754,6 +986,10 @@
   "value": "\nGMail\nMandrill\nOutlook.com\nYahoo Mail"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier Quotation", 
   "docstatus": 0, 
@@ -767,6 +1003,10 @@
   "value": ""
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -780,6 +1020,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -793,6 +1037,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Stock Entry Detail", 
   "docstatus": 0, 
@@ -806,6 +1054,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation Item", 
   "docstatus": 0, 
@@ -819,6 +1071,10 @@
   "value": "[\"item_code\", \"customer_item_code\", \"col_break1\", \"item_name\", \"section_break_5\", \"description\", \"column_break_7\", \"image\", \"image_view\", \"quantity_and_rate\", \"quantity_in_kg\", \"rate_per_kg\", \"qty\", \"price_list_rate\", \"discount_percentage\", \"col_break2\", \"net_weight\", \"weight_uom\", \"stock_uom\", \"section_break1\", \"base_price_list_rate\", \"rate\", \"net_rate\", \"amount\", \"col_break3\", \"net_amount\", \"base_rate\", \"base_net_rate\", \"base_amount\", \"base_net_amount\", \"pricing_rule\", \"reference\", \"prevdoc_doctype\", \"prevdoc_docname\", \"item_tax_rate\", \"col_break4\", \"page_break\", \"item_group\", \"brand\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -832,6 +1088,10 @@
   "value": "[\"customer_section\", \"column_break0\", \"naming_series\", \"quotation_to\", \"customer\", \"lead\", \"customer_name\", \"address_display\", \"contact_display\", \"contact_mobile\", \"contact_email\", \"sales_person\", \"column_break1\", \"amended_from\", \"company\", \"transaction_date\", \"order_type\", \"is_service\", \"payment_term\", \"currency_and_price_list\", \"currency\", \"conversion_rate\", \"plc_conversion_rate\", \"column_break2\", \"selling_price_list\", \"price_list_currency\", \"ignore_pricing_rule\", \"items_section\", \"items\", \"sec_break23\", \"base_total\", \"base_net_total\", \"column_break_28\", \"total\", \"net_total\", \"taxes_section\", \"taxes_and_charges\", \"column_break_34\", \"shipping_rule\", \"section_break_36\", \"taxes\", \"other_charges_calculation\", \"section_break_39\", \"base_total_taxes_and_charges\", \"column_break_42\", \"total_taxes_and_charges\", \"section_break_44\", \"apply_discount_on\", \"column_break_46\", \"discount_amount\", \"base_discount_amount\", \"totals\", \"base_grand_total\", \"base_rounded_total\", \"base_in_words\", \"column_break3\", \"grand_total\", \"rounded_total\", \"in_words\", \"terms_section_break\", \"tc_name\", \"terms\", \"contact_section\", \"territory\", \"customer_group\", \"shipping_address_name\", \"shipping_address\", \"col_break98\", \"customer_address\", \"contact_person\", \"more_info\", \"campaign\", \"source\", \"status\", \"order_lost_reason\", \"column_break4\", \"letter_head\", \"select_print_heading\", \"fiscal_year\", \"enq_det\", \"title\", \"print_settings\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -845,6 +1105,10 @@
   "value": "[\"customer_section\", \"column_break0\", \"naming_series\", \"customer\", \"customer_name\", \"address_display\", \"contact_display\", \"contact_mobile\", \"contact_email\", \"order_type\", \"is_service\", \"sales_person\", \"column_break1\", \"amended_from\", \"company\", \"transaction_date\", \"delivery_date\", \"po_no\", \"po_date\", \"shipping_address_name\", \"shipping_address\", \"quotation\", \"currency_and_price_list\", \"currency\", \"conversion_rate\", \"column_break2\", \"selling_price_list\", \"price_list_currency\", \"plc_conversion_rate\", \"ignore_pricing_rule\", \"items_section\", \"items\", \"section_break_31\", \"column_break_33a\", \"base_total\", \"base_net_total\", \"column_break_33\", \"total\", \"net_total\", \"taxes_section\", \"taxes_and_charges\", \"column_break_38\", \"shipping_rule\", \"section_break_40\", \"taxes\", \"other_charges_calculation\", \"section_break_43\", \"base_total_taxes_and_charges\", \"column_break_46\", \"total_taxes_and_charges\", \"section_break_48\", \"apply_discount_on\", \"column_break_50\", \"discount_amount\", \"base_discount_amount\", \"totals\", \"base_grand_total\", \"base_rounded_total\", \"base_in_words\", \"column_break3\", \"grand_total\", \"rounded_total\", \"in_words\", \"advance_paid\", \"packing_list\", \"packed_items\", \"terms_section_break\", \"tc_name\", \"terms\", \"contact_info\", \"col_break45\", \"territory\", \"customer_group\", \"col_break46\", \"customer_address\", \"contact_person\", \"more_info\", \"project_name\", \"campaign\", \"source\", \"column_break4\", \"letter_head\", \"select_print_heading\", \"fiscal_year\", \"section_break_78\", \"status\", \"delivery_status\", \"per_delivered\", \"column_break_81\", \"per_billed\", \"billing_status\", \"sales_team_section_break\", \"sales_partner\", \"column_break7\", \"commission_rate\", \"total_commission\", \"section_break1\", \"sales_team\", \"recurring_order\", \"is_recurring\", \"recurring_type\", \"from_date\", \"to_date\", \"repeat_on_day_of_month\", \"end_date\", \"column_break83\", \"next_date\", \"recurring_id\", \"notification_email_address\", \"recurring_print_format\", \"title\", \"column_break_77\", \"printing_details\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -858,6 +1122,10 @@
   "value": "[\"name_and_description_section\", \"naming_series\", \"item_code\", \"variant_of\", \"item_name\", \"item_group\", \"stock_uom\", \"end_of_life\", \"column_break0\", \"company\", \"file_number\", \"is_stock_item\", \"image\", \"image_view\", \"section_break_11\", \"brand\", \"barcode\", \"description\", \"inventory\", \"country_of_origin\", \"default_warehouse\", \"has_batch_no\", \"has_serial_no\", \"serial_no_series\", \"is_asset_item\", \"column_break1\", \"tolerance\", \"valuation_method\", \"warranty_period\", \"net_weight\", \"weight_uom\", \"reorder_section\", \"re_order_level\", \"re_order_qty\", \"apply_warehouse_wise_reorder_level\", \"section_break_31\", \"reorder_levels\", \"variants_section\", \"has_variants\", \"attributes\", \"purchase_details\", \"is_purchase_item\", \"min_order_qty\", \"lead_time_days\", \"buying_cost_center\", \"expense_account\", \"unit_of_measure_conversion\", \"uoms\", \"last_purchase_rate\", \"supplier_details\", \"default_supplier\", \"manufacturer\", \"manufacturer_part_no\", \"column_break2\", \"supplier_items\", \"sales_details\", \"is_sales_item\", \"is_service_item\", \"publish_in_hub\", \"synced_with_hub\", \"income_account\", \"selling_cost_center\", \"column_break3\", \"customer_items\", \"max_discount\", \"item_tax_section_break\", \"taxes\", \"inspection_criteria\", \"inspection_required\", \"quality_parameters\", \"manufacturing\", \"is_pro_applicable\", \"is_sub_contracted_item\", \"column_break_74\", \"default_bom\", \"customer_code\", \"website_section\", \"show_in_website\", \"page_name\", \"weightage\", \"slideshow\", \"website_image\", \"cb72\", \"website_warehouse\", \"website_item_groups\", \"sb72\", \"copy_from_item_group\", \"website_specifications\", \"web_long_description\", \"parent_website_route\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -871,6 +1139,10 @@
   "value": "149"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -884,6 +1156,10 @@
   "value": "285"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -897,6 +1173,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -910,6 +1190,10 @@
   "value": "188"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -923,6 +1207,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Production Order", 
   "docstatus": 0, 
@@ -936,6 +1224,10 @@
   "value": "PRO-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Production Order", 
   "docstatus": 0, 
@@ -949,6 +1241,10 @@
   "value": "PRO-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -962,6 +1258,10 @@
   "value": "PINV-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -975,6 +1275,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -988,6 +1292,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1001,6 +1309,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -1014,6 +1326,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -1027,6 +1343,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Patch Log", 
   "docstatus": 0, 
@@ -1040,6 +1360,10 @@
   "value": "187"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt", 
   "docstatus": 0, 
@@ -1053,6 +1377,10 @@
   "value": "PREC-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Employee", 
   "docstatus": 0, 
@@ -1066,6 +1394,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -1079,6 +1411,10 @@
   "value": "[\"basic_info\", \"naming_series\", \"supplier_name\", \"supplier_type\", \"supplier_group\", \"file_number\", \"is_frozen\", \"column_break0\", \"company\", \"country\", \"territory\", \"source\", \"address_contacts\", \"address_html\", \"column_break1\", \"contact_html\", \"default_payable_accounts\", \"accounts\", \"default_currency\", \"default_price_list\", \"default_taxes_and_charges\", \"credit_days\", \"column_break2\", \"owned_by\", \"city\", \"website\", \"supplier_details\", \"communications\", \"section_break_7\", \"column_break_10\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -1092,6 +1428,10 @@
   "value": "[\"title\", \"naming_series\", \"supplier\", \"supplier_name\", \"address_display\", \"contact_display\", \"contact_mobile\", \"contact_email\", \"column_break1\", \"posting_date\", \"bill_no\", \"bill_date\", \"amended_from\", \"company\", \"is_return\", \"return_against\", \"currency_and_price_list\", \"currency\", \"conversion_rate\", \"column_break2\", \"buying_price_list\", \"price_list_currency\", \"plc_conversion_rate\", \"ignore_pricing_rule\", \"items_section\", \"items\", \"section_break_26\", \"base_total\", \"base_net_total\", \"column_break_28\", \"total\", \"net_total\", \"taxes_section\", \"taxes_and_charges\", \"taxes\", \"other_charges_calculation\", \"totals\", \"base_taxes_and_charges_added\", \"base_taxes_and_charges_deducted\", \"base_total_taxes_and_charges\", \"column_break_40\", \"taxes_and_charges_added\", \"taxes_and_charges_deducted\", \"total_taxes_and_charges\", \"section_break_44\", \"apply_discount_on\", \"column_break_46\", \"discount_amount\", \"base_discount_amount\", \"section_break_49\", \"base_grand_total\", \"base_in_words\", \"column_break8\", \"grand_total\", \"in_words\", \"total_advance\", \"outstanding_amount\", \"write_off\", \"write_off_amount\", \"base_write_off_amount\", \"column_break_61\", \"write_off_account\", \"write_off_cost_center\", \"advances_section\", \"get_advances_paid\", \"advances\", \"terms_section_break\", \"tc_name\", \"terms\", \"contact_section\", \"supplier_address\", \"col_break23\", \"contact_person\", \"printing_settings\", \"letter_head\", \"select_print_heading\", \"more_info\", \"credit_to\", \"party_account_currency\", \"is_opening\", \"due_date\", \"against_expense_account\", \"column_break_63\", \"mode_of_payment\", \"fiscal_year\", \"remarks\", \"owner\", \"recurring_invoice\", \"is_recurring\", \"recurring_type\", \"from_date\", \"to_date\", \"repeat_on_day_of_month\", \"end_date\", \"column_break_82\", \"next_date\", \"recurring_id\", \"notification_email_address\", \"recurring_print_format\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -1105,6 +1445,10 @@
   "value": "PINV-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry", 
   "docstatus": 0, 
@@ -1118,6 +1462,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry", 
   "docstatus": 0, 
@@ -1131,6 +1479,10 @@
   "value": ""
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry", 
   "docstatus": 0, 
@@ -1144,6 +1496,10 @@
   "value": "[\"entry_type_and_date\", \"voucher_type\", \"naming_series\", \"column_break1\", \"posting_date\", \"2_add_edit_gl_entries\", \"accounts\", \"section_break99\", \"stock_entry\", \"total_debit\", \"total_credit\", \"difference\", \"get_balance\", \"column_break99\", \"cheque_no\", \"cheque_date\", \"user_remark\", \"owner\", \"received_by\", \"reference\", \"clearance_date\", \"remark\", \"column_break98\", \"bill_no\", \"bill_date\", \"due_date\", \"addtional_info\", \"is_opening\", \"write_off_based_on\", \"write_off_amount\", \"get_outstanding_invoices\", \"letter_head\", \"select_print_heading\", \"amended_from\", \"prepared_by\", \"column_break3\", \"pay_to_recd_from\", \"total_amount\", \"total_amount_in_words\", \"company\", \"fiscal_year\", \"title\", \"multi_currency\", \"approved_by\", \"write_off\", \"column_break_30\", \"printing_settings\", \"column_break_35\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Employee", 
   "docstatus": 0, 
@@ -1157,6 +1513,10 @@
   "value": "[\"basic_information\", \"column_break0\", \"employee\", \"naming_series\", \"salutation\", \"employee_name\", \"id_\", \"passport_no\", \"passport_expiry_date_\", \"image\", \"image_view\", \"column_break1\", \"user_id\", \"employee_number\", \"date_of_joining\", \"date_of_birth\", \"gender\", \"company\", \"employment_details\", \"col_break_21\", \"status\", \"employment_type\", \"holiday_list\", \"col_break_22\", \"scheduled_confirmation_date\", \"final_confirmation_date\", \"contract_end_date\", \"date_of_retirement\", \"file_number\", \"job_profile\", \"column_break2\", \"branch\", \"department\", \"designation\", \"company_email\", \"notice_number_of_days\", \"salary_information\", \"salary_mode\", \"bank_name\", \"bank_ac_no\", \"organization_profile\", \"reports_to\", \"leave_approvers\", \"contact_details\", \"column_break3\", \"cell_number\", \"personal_email\", \"unsubscribed\", \"emergency_contact_details\", \"person_to_be_contacted\", \"relation\", \"emergency_phone_number\", \"column_break4\", \"permanent_accommodation_type\", \"permanent_address\", \"current_accommodation_type\", \"current_address\", \"sb53\", \"bio\", \"personal_details\", \"column_break5\", \"passport_number\", \"date_of_issue\", \"valid_upto\", \"place_of_issue\", \"column_break6\", \"marital_status\", \"blood_group\", \"family_background\", \"health_details\", \"educational_qualification\", \"education\", \"previous_work_experience\", \"external_work_history\", \"history_in_company\", \"internal_work_history\", \"exit\", \"column_break7\", \"resignation_letter_date\", \"relieving_date\", \"reason_for_leaving\", \"leave_encashed\", \"encashment_date\", \"exit_interview_details\", \"held_on\", \"reason_for_resignation\", \"new_workplace\", \"feedback\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Stock Entry", 
   "docstatus": 0, 
@@ -1170,6 +1530,10 @@
   "value": "CT-QA-STE-2017-JAN.##"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -1183,6 +1547,10 @@
   "value": "[\"basic_info\", \"naming_series\", \"customer_name\", \"customer_type\", \"lead_name\", \"file_number\", \"country\", \"customer_group\", \"column_break0\", \"territory\", \"company\", \"tax_id\", \"sales_person\", \"is_frozen\", \"currency_and_price_list\", \"default_currency\", \"default_price_list\", \"address_contacts\", \"address_html\", \"column_break1\", \"contact_html\", \"default_receivable_accounts\", \"accounts\", \"column_break2\", \"credit_days_based_on\", \"credit_days\", \"credit_limit\", \"more_info\", \"customer_details\", \"website\", \"sales_team_section_break\", \"default_sales_partner\", \"default_commission_rate\", \"sales_team_section\", \"sales_team\", \"owner\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1196,6 +1564,10 @@
   "value": "[\"customer_section\", \"title\", \"naming_series\", \"customer\", \"customer_name\", \"sales_person\", \"address_display\", \"contact_display\", \"contact_mobile\", \"contact_email\", \"is_pos\", \"is_return\", \"column_break1\", \"posting_date\", \"due_date\", \"company\", \"amended_from\", \"return_against\", \"shipping_address_name\", \"shipping_address\", \"currency_and_price_list\", \"currency\", \"conversion_rate\", \"column_break2\", \"selling_price_list\", \"price_list_currency\", \"plc_conversion_rate\", \"ignore_pricing_rule\", \"items_section\", \"update_stock\", \"items\", \"packing_list\", \"packed_items\", \"product_bundle_help\", \"section_break_30\", \"base_total\", \"base_net_total\", \"column_break_32\", \"total\", \"net_total\", \"taxes_section\", \"taxes_and_charges\", \"column_break_38\", \"shipping_rule\", \"section_break_40\", \"taxes\", \"other_charges_calculation\", \"section_break_43\", \"base_total_taxes_and_charges\", \"column_break_47\", \"total_taxes_and_charges\", \"section_break_49\", \"apply_discount_on\", \"base_discount_amount\", \"column_break_51\", \"additional_discount_percentage\", \"discount_amount\", \"totals\", \"base_grand_total\", \"base_rounded_total\", \"base_in_words\", \"column_break5\", \"grand_total\", \"rounded_total\", \"in_words\", \"total_advance\", \"outstanding_amount\", \"advances_section\", \"get_advances_received\", \"advances\", \"payments_section\", \"mode_of_payment\", \"cash_bank_account\", \"column_break3\", \"paid_amount\", \"base_paid_amount\", \"column_break4\", \"write_off_amount\", \"base_write_off_amount\", \"write_off_outstanding_amount_automatically\", \"column_break_74\", \"write_off_account\", \"write_off_cost_center\", \"terms_section_break\", \"tc_name\", \"terms\", \"edit_printing_settings\", \"letter_head\", \"column_break_84\", \"select_print_heading\", \"contact_section\", \"project_name\", \"territory\", \"customer_group\", \"col_break23\", \"customer_address\", \"contact_person\", \"campaign\", \"source\", \"more_info\", \"debit_to\", \"party_account_currency\", \"is_opening\", \"c_form_applicable\", \"c_form_no\", \"column_break8\", \"posting_time\", \"fiscal_year\", \"remarks\", \"sales_team_section_break\", \"sales_partner\", \"column_break10\", \"commission_rate\", \"total_commission\", \"section_break2\", \"sales_team\", \"recurring_invoice\", \"column_break11\", \"is_recurring\", \"recurring_type\", \"from_date\", \"to_date\", \"repeat_on_day_of_month\", \"end_date\", \"column_break12\", \"next_date\", \"recurring_id\", \"notification_email_address\", \"recurring_print_format\", \"against_income_account\"]"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -1209,6 +1581,10 @@
   "value": "101"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1222,6 +1598,10 @@
   "value": "211"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1235,6 +1615,10 @@
   "value": "173"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1248,6 +1632,10 @@
   "value": "96"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1261,6 +1649,10 @@
   "value": "73"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1274,6 +1666,10 @@
   "value": "128"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1287,6 +1683,10 @@
   "value": "81"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1300,6 +1700,10 @@
   "value": "115"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1313,6 +1717,10 @@
   "value": "91"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1326,6 +1734,10 @@
   "value": "104"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -1339,6 +1751,10 @@
   "value": "157"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item Supplier", 
   "docstatus": 0, 
@@ -1352,6 +1768,10 @@
   "value": "145"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -1365,6 +1785,10 @@
   "value": "153"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Lead", 
   "docstatus": 0, 
@@ -1378,6 +1802,10 @@
   "value": "CT-QA-LEAD-16-OCT-.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item Price", 
   "docstatus": 0, 
@@ -1391,6 +1819,10 @@
   "value": "700"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item Price", 
   "docstatus": 0, 
@@ -1404,6 +1836,10 @@
   "value": "89"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -1417,6 +1853,10 @@
   "value": ""
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1430,6 +1870,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1443,6 +1887,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1456,6 +1904,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1469,6 +1921,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -1482,6 +1938,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -1495,6 +1955,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -1508,6 +1972,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -1521,6 +1989,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1534,6 +2006,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1547,6 +2023,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1560,6 +2040,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1573,6 +2057,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1586,6 +2074,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1599,6 +2091,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1612,6 +2108,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1625,6 +2125,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1638,6 +2142,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -1651,6 +2159,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -1664,6 +2176,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1677,6 +2193,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1690,6 +2210,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1703,6 +2227,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier Quotation", 
   "docstatus": 0, 
@@ -1716,6 +2244,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier Quotation", 
   "docstatus": 0, 
@@ -1729,6 +2261,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Order", 
   "docstatus": 0, 
@@ -1742,6 +2278,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Order", 
   "docstatus": 0, 
@@ -1755,6 +2295,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -1768,6 +2312,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -1781,6 +2329,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt", 
   "docstatus": 0, 
@@ -1794,6 +2346,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt", 
   "docstatus": 0, 
@@ -1807,6 +2363,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -1820,6 +2380,10 @@
   "value": "140"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Contact", 
   "docstatus": 0, 
@@ -1833,6 +2397,10 @@
   "value": "ASC"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Contact", 
   "docstatus": 0, 
@@ -1846,6 +2414,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Contact", 
   "docstatus": 0, 
@@ -1859,6 +2431,10 @@
   "value": " "
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1872,6 +2448,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1885,6 +2465,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1898,6 +2482,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1911,6 +2499,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1924,6 +2516,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1937,6 +2533,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1950,6 +2550,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -1963,6 +2567,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1976,6 +2584,10 @@
   "value": "Custom Quote Print"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -1989,6 +2601,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -2002,123 +2618,10 @@
   "value": "1"
  }, 
  {
-  "default_value": null, 
-  "doc_type": "Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "naming_series", 
-  "modified": "2016-08-12 21:45:04.977080", 
-  "name": "Item-naming_series-reqd", 
-  "property": "reqd", 
-  "property_type": "Check", 
-  "value": "0"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "naming_series", 
-  "modified": "2016-08-12 21:45:05.169725", 
-  "name": "Item-naming_series-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "1"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "item_code", 
-  "modified": "2016-08-12 21:45:05.359831", 
-  "name": "Item-item_code-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "0"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "item_code", 
-  "modified": "2016-08-12 21:45:05.549923", 
-  "name": "Item-item_code-reqd", 
-  "property": "reqd", 
-  "property_type": "Check", 
-  "value": "1"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "barcode", 
-  "modified": "2016-08-12 21:45:05.761042", 
-  "name": "Item-barcode-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "0"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Sales Invoice Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "barcode", 
-  "modified": "2016-08-12 21:45:05.955599", 
-  "name": "Sales Invoice Item-barcode-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "0"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Stock Entry Detail", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "barcode", 
-  "modified": "2016-08-12 21:45:06.061100", 
-  "name": "Stock Entry Detail-barcode-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "0"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Delivery Note Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "barcode", 
-  "modified": "2016-08-12 21:45:06.143205", 
-  "name": "Delivery Note Item-barcode-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "0"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Purchase Receipt Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "barcode", 
-  "modified": "2016-08-12 21:45:06.254221", 
-  "name": "Purchase Receipt Item-barcode-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "0"
- }, 
- {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Timesheet", 
   "docstatus": 0, 
@@ -2132,6 +2635,10 @@
   "value": "TS-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Timesheet", 
   "docstatus": 0, 
@@ -2145,6 +2652,10 @@
   "value": "TS-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -2158,6 +2669,10 @@
   "value": "customer_name,customer_group"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Payment Entry", 
   "docstatus": 0, 
@@ -2171,6 +2686,10 @@
   "value": "PE-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Payment Entry", 
   "docstatus": 0, 
@@ -2184,6 +2703,10 @@
   "value": "PE-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Request for Quotation", 
   "docstatus": 0, 
@@ -2197,6 +2720,10 @@
   "value": "RFQ-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Request for Quotation", 
   "docstatus": 0, 
@@ -2210,6 +2737,10 @@
   "value": "RFQ-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -2223,6 +2754,10 @@
   "value": "486"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt", 
   "docstatus": 0, 
@@ -2236,6 +2771,10 @@
   "value": "PREC-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -2249,6 +2788,10 @@
   "value": "Standard DN - With Qty"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Payment Entry", 
   "docstatus": 0, 
@@ -2262,6 +2805,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -2275,6 +2822,10 @@
   "value": "CTQA.ITEM-16-OCT-.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Lead", 
   "docstatus": 0, 
@@ -2288,6 +2839,10 @@
   "value": "CT-QA-LEAD-16-OCT-.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Material Request", 
   "docstatus": 0, 
@@ -2301,6 +2856,10 @@
   "value": ""
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Opportunity", 
   "docstatus": 0, 
@@ -2314,6 +2873,10 @@
   "value": "CT-QA-OPTY-2017-JAN.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -2327,6 +2890,10 @@
   "value": "238"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -2340,6 +2907,10 @@
   "value": "300"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -2353,6 +2924,10 @@
   "value": "4"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Brand", 
   "docstatus": 0, 
@@ -2366,6 +2941,10 @@
   "value": "ASC"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Brand", 
   "docstatus": 0, 
@@ -2379,6 +2958,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Service", 
   "docstatus": 0, 
@@ -2392,6 +2975,10 @@
   "value": "CT-QA-SR-2017-JAN.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Service", 
   "docstatus": 0, 
@@ -2405,6 +2992,10 @@
   "value": "CT-QA-SR-2017-JAN.###\nCT-QA-SR-16-DEC-.###"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Website Script", 
   "docstatus": 0, 
@@ -2418,6 +3009,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Supplier", 
   "docstatus": 0, 
@@ -2431,6 +3026,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -2444,6 +3043,10 @@
   "value": "All Territories"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Item", 
   "docstatus": 0, 
@@ -2457,6 +3060,10 @@
   "value": "341"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -2470,6 +3077,10 @@
   "value": "247"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Payment Entry Reference", 
   "docstatus": 0, 
@@ -2483,6 +3094,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry Account", 
   "docstatus": 0, 
@@ -2496,6 +3111,10 @@
   "value": "modified"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Journal Entry Account", 
   "docstatus": 0, 
@@ -2509,6 +3128,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note Item", 
   "docstatus": 0, 
@@ -2522,19 +3145,10 @@
   "value": null
  }, 
  {
-  "default_value": null, 
-  "doc_type": "Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocType", 
-  "field_name": null, 
-  "modified": "2016-11-27 22:08:41.848911", 
-  "name": "Item-read_only_onload", 
-  "property": "read_only_onload", 
-  "property_type": "Check", 
-  "value": null
- }, 
- {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Job Master", 
   "docstatus": 0, 
@@ -2548,6 +3162,10 @@
   "value": "JN-QA-217-JAN.####"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Job Master", 
   "docstatus": 0, 
@@ -2561,6 +3179,10 @@
   "value": "JN-QA-217-JAN.####"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Delivery Note", 
   "docstatus": 0, 
@@ -2574,19 +3196,10 @@
   "value": null
  }, 
  {
-  "default_value": null, 
-  "doc_type": "Sales Invoice", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocType", 
-  "field_name": null, 
-  "modified": "2017-03-15 09:09:55.392065", 
-  "name": "Sales Invoice-read_only_onload", 
-  "property": "read_only_onload", 
-  "property_type": "Check", 
-  "value": null
- }, 
- {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -2600,6 +3213,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Company", 
   "docstatus": 0, 
@@ -2613,6 +3230,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -2626,6 +3247,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -2639,6 +3264,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt", 
   "docstatus": 0, 
@@ -2652,6 +3281,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt", 
   "docstatus": 0, 
@@ -2665,6 +3298,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -2678,6 +3315,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice", 
   "docstatus": 0, 
@@ -2691,6 +3332,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation", 
   "docstatus": 0, 
@@ -2704,6 +3349,10 @@
   "value": "QTN-"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Order Item", 
   "docstatus": 0, 
@@ -2717,6 +3366,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Order Item", 
   "docstatus": 0, 
@@ -2730,6 +3383,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt Item", 
   "docstatus": 0, 
@@ -2743,6 +3400,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Receipt Item", 
   "docstatus": 0, 
@@ -2756,19 +3417,10 @@
   "value": "1"
  }, 
  {
-  "default_value": null, 
-  "doc_type": "Purchase Invoice Item", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocType", 
-  "field_name": null, 
-  "modified": "2017-03-26 12:11:01.926696", 
-  "name": "Purchase Invoice Item-read_only_onload", 
-  "property": "read_only_onload", 
-  "property_type": "Check", 
-  "value": null
- }, 
- {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Purchase Invoice Item", 
   "docstatus": 0, 
@@ -2782,6 +3434,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation Item", 
   "docstatus": 0, 
@@ -2795,6 +3451,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Quotation Item", 
   "docstatus": 0, 
@@ -2808,6 +3468,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order Item", 
   "docstatus": 0, 
@@ -2821,6 +3485,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order Item", 
   "docstatus": 0, 
@@ -2834,6 +3502,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice Item", 
   "docstatus": 0, 
@@ -2847,6 +3519,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice Item", 
   "docstatus": 0, 
@@ -2860,6 +3536,10 @@
   "value": "1"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
@@ -2873,6 +3553,10 @@
   "value": "120"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Invoice Item", 
   "docstatus": 0, 
@@ -2886,6 +3570,10 @@
   "value": "172"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Sales Order", 
   "docstatus": 0, 
@@ -2899,6 +3587,10 @@
   "value": "86"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -2912,6 +3604,10 @@
   "value": "0"
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -2925,6 +3621,10 @@
   "value": null
  }, 
  {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
   "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
@@ -2936,5 +3636,294 @@
   "property": "permlevel", 
   "property_type": "Int", 
   "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "naming_series", 
+  "modified": "2017-04-09 21:02:13.731979", 
+  "name": "Item-naming_series-reqd", 
+  "property": "reqd", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "naming_series", 
+  "modified": "2017-04-09 21:02:13.751774", 
+  "name": "Item-naming_series-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "1"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "item_code", 
+  "modified": "2017-04-09 21:02:13.766018", 
+  "name": "Item-item_code-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "item_code", 
+  "modified": "2017-04-09 21:02:13.780239", 
+  "name": "Item-item_code-reqd", 
+  "property": "reqd", 
+  "property_type": "Check", 
+  "value": "1"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "barcode", 
+  "modified": "2017-04-09 21:02:13.834835", 
+  "name": "Item-barcode-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Sales Invoice Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "barcode", 
+  "modified": "2017-04-09 21:02:13.851015", 
+  "name": "Sales Invoice Item-barcode-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Delivery Note Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "barcode", 
+  "modified": "2017-04-09 21:02:13.870580", 
+  "name": "Delivery Note Item-barcode-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Stock Entry Detail", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "barcode", 
+  "modified": "2017-04-09 21:02:13.890307", 
+  "name": "Stock Entry Detail-barcode-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Purchase Receipt Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "barcode", 
+  "modified": "2017-04-09 21:02:13.909797", 
+  "name": "Purchase Receipt Item-barcode-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Purchase Invoice Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "item_code", 
+  "modified": "2017-04-10 09:38:14.337532", 
+  "name": "Purchase Invoice Item-item_code-print_hide", 
+  "property": "print_hide", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Purchase Invoice Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "item_name", 
+  "modified": "2017-04-10 09:38:14.381580", 
+  "name": "Purchase Invoice Item-item_name-print_hide", 
+  "property": "print_hide", 
+  "property_type": "Check", 
+  "value": "1"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Purchase Invoice Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "rejected_qty", 
+  "modified": "2017-04-10 09:38:14.432410", 
+  "name": "Purchase Invoice Item-rejected_qty-print_hide", 
+  "property": "print_hide", 
+  "property_type": "Check", 
+  "value": "1"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Purchase Invoice Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocType", 
+  "field_name": null, 
+  "modified": "2017-04-10 09:42:32.188894", 
+  "name": "Purchase Invoice Item-read_only_onload", 
+  "property": "read_only_onload", 
+  "property_type": "Check", 
+  "value": null
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Purchase Invoice Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "warehouse", 
+  "modified": "2017-04-10 09:42:32.333862", 
+  "name": "Purchase Invoice Item-warehouse-print_hide", 
+  "property": "print_hide", 
+  "property_type": "Check", 
+  "value": "1"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Purchase Invoice Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "rejected_warehouse", 
+  "modified": "2017-04-10 09:42:32.377369", 
+  "name": "Purchase Invoice Item-rejected_warehouse-print_hide", 
+  "property": "print_hide", 
+  "property_type": "Check", 
+  "value": "1"
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Sales Invoice", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocType", 
+  "field_name": null, 
+  "modified": "2017-04-10 12:23:21.768901", 
+  "name": "Sales Invoice-read_only_onload", 
+  "property": "read_only_onload", 
+  "property_type": "Check", 
+  "value": null
+ }, 
+ {
+  "_assign": null, 
+  "_comments": null, 
+  "_liked_by": null, 
+  "_user_tags": null, 
+  "default_value": null, 
+  "doc_type": "Item", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocType", 
+  "field_name": null, 
+  "modified": "2017-04-16 10:25:30.066900", 
+  "name": "Item-read_only_onload", 
+  "property": "read_only_onload", 
+  "property_type": "Check", 
+  "value": null
  }
 ]
