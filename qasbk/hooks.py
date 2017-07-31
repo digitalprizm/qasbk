@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 from . import __version__ as app_version
+from frappe import _
 
 app_name = "qasbk"
 app_title = "qasbk"
@@ -14,6 +15,24 @@ hide_in_installer = True
 
 fixtures = ['Custom Field', 'Property Setter', "Custom Script","Print Format"]
 
+website_context = {
+		"post_login": [
+			{"label": _("My Account"), "url": "/me"},
+			{"label": _("My Order"), "url": "/orders"},
+			{"label": _("My Addresses"), "url": "/addresses"},
+			{"label": _("Logout"), "url": "/?cmd=web_logout"}
+		]
+}
+
+website_route_rules = [
+	{"from_route": "/get_quote", "to_route": "Get Quote"},
+	{"from_route": "/get_quote/<path:name>", "to_route": "get_quote",
+		"defaults": {
+			"doctype": "Get Quote",
+			"parents": [{"title": _("Get Quote"), "name": "get_quote"}]
+		}
+	}
+]
 # Includes in <head>
 # ------------------
 
