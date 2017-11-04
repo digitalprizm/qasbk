@@ -19,10 +19,15 @@ def get_data():
 					"description": _("Delivery Note for Customers."),
 				},
 				{
+					"type": "doctype",
+					"name": "Sales Invoice",
+					"description": _("sales invoice"),
+				},
+				{
                                         "type": "doctype",
                                         "name": "Job Master",
                                         "description": _("Job Master Details"),
-                                },
+                },
 
 			]
 		},
