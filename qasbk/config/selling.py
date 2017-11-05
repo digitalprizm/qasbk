@@ -22,8 +22,26 @@ def get_data():
                                         "type": "doctype",
                                         "name": "Job Master",
                                         "description": _("Job Master Details"),
-                                },
+                },
 
+			]
+		},
+		{
+			"label": _("Other Reports"),
+			"icon": "icon-star",
+			"items": [
+				{
+					"type": "report",
+					"is_query_report": True,
+					"name": "Sales Register Detail",
+					"doctype": "Sales Invoice"
+				},
+				{
+					"type": "report",
+					"is_query_report": True,
+					"name": "Item-wise Sales Register Detail",
+					"doctype": "Sales Invoice"
+				},
 			]
 		},
 	]
