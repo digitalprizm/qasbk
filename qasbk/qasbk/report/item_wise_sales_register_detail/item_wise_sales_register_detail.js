@@ -7,7 +7,7 @@ frappe.query_reports["Item-wise Sales Register Detail"] = frappe.query_reports["
 			"fieldname":"from_date",
 			"label": __("From Date"),
 			"fieldtype": "Date",
-			"default": frappe.datetime.add_months(frappe.datetime.get_today(), -1),
+			"default": frappe.datetime.get_today(),
 			"width": "80"
 		},
 		{
@@ -17,10 +17,18 @@ frappe.query_reports["Item-wise Sales Register Detail"] = frappe.query_reports["
 			"default": frappe.datetime.get_today()
 		},
 		{
-			"fieldname":"customer",
-			"label": __("Customer"),
-			"fieldtype": "Link",
-			"options": "Customer"
+			"fieldname":"from_time",
+			"label": __("From Time"),
+			"fieldtype": "Time",
+			"default": "00:00",
+			"width": "80"
+		},
+		{
+			"fieldname":"to_time",
+			"label": __("To Time"),
+			"fieldtype": "Time",
+			"default": "23:59:59",
+			"width": "80"
 		},
 		{
 			"fieldname":"company",
@@ -29,11 +37,15 @@ frappe.query_reports["Item-wise Sales Register Detail"] = frappe.query_reports["
 			"options": "Company",
 			"default": frappe.defaults.get_user_default("Company")
 		}
-		// {
-		// 	"fieldname":"mode_of_payment",
-		// 	"label": __("Mode of Payment"),
-		// 	"fieldtype": "Link",
-		// 	"options": "Mode of Payment"
-		// }
-	]
+	],
+	"formatter":function (row, cell, value, columnDef, dataContext, default_formatter) {
+	    value = default_formatter(row, cell, value, columnDef, dataContext);
+	   if (columnDef.id != "Invoice" && columnDef.id != "Item Code" && dataContext["Item Code"] == "") {
+	   		value = "<span style='color:black!important;font-weight:bold'>" + value + "</span>";
+	   }
+	   // else{
+	   // 		value = "<span style='color:black!important;font-weight:bold'>" + value + "</span>";
+	   // }
+	   return value;
+	}
 }
