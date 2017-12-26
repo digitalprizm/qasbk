@@ -4311,27 +4311,10 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocType", 
   "field_name": null, 
-  "modified": "2017-12-18 13:36:26.633402", 
+  "modified": "2017-12-18 13:49:08.240002", 
   "name": "Dropbox Settings-read_only_onload", 
   "property": "read_only_onload", 
   "property_type": "Check", 
   "value": null
- }, 
- {
-  "_assign": null, 
-  "_comments": null, 
-  "_liked_by": null, 
-  "_user_tags": null, 
-  "default_value": null, 
-  "doc_type": "Dropbox Settings", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "dropbox_access_token", 
-  "modified": "2017-12-18 13:36:26.735939", 
-  "name": "Dropbox Settings-dropbox_access_token-hidden", 
-  "property": "hidden", 
-  "property_type": "Check", 
-  "value": "0"
  }
 ]
