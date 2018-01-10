@@ -1,0 +1,126 @@
+<br>
+<br>
+{%=  filters.clinic_letter_head  %}
+<br>
+<h3 class="text-center"><b>{%= __(" ITEMWISE SALES REGISTER DETAIL") %}</b></h3>
+<div class="row text-center">
+		<h5 class="text-center">
+				{%= frappe.datetime.str_to_user(filters.from_date) %}
+				{%= __("-") %}
+				{%= frappe.datetime.str_to_user(filters.to_date) %}
+		</h5>   
+</div>
+<hr>
+<table class="table table-bordered"  style="font-size: 12px;">
+	<thead>
+		<tr>
+			<th style="width: 10%;text-align:center;">
+				{%= __("Item Code")%}
+			</th>
+			
+			<th style="width: 10%; text-align:center;">
+				{%= __("Invoice")%}
+			</th>
+			
+			<th style="width: 10%; text-align:center;">
+				{%= __("Vehicle No")%}
+			</th>
+			
+			<th style="width: 10%; text-align:center;">
+				{%= __("Posting Date") %}
+			</th>
+			
+			<th style="width: 10%; text-align:center;">
+				{%= __("Time") %}
+			</th>
+
+			<th style="width: 10%; text-align:center;">
+				{%= __("Stock Qty") %}
+			</th>
+
+			<th style="width: 10%; text-align:center;">
+				{%= __("Rate") %}
+			</th>
+
+			<th style="width: 10%; text-align:center;">
+				{%= __("Amount") %}
+			</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		{% for(var i=0, l=data.length-1; i<l; i++) { %}
+			<tr>
+				<td>
+					{%= data[i][__("Item Code")] %}
+				</td>
+				
+				<td>
+					{%= data[i][__("Invoice")] %}
+				</td>
+				
+				<td style=" text-align:right;">
+					{%= data[i][__("Vehicle No")]%}
+				</td>
+			
+				<td style=" text-align:center;">
+					{%= frappe.datetime.str_to_user(data[i][__("Posting Date")]) %}
+				</td>
+				
+				{% if(data[i][__("Time")] == "Total" ||
+				data[i][__("Time")] == "Net Total"){ %}
+					<td style=" text-align:center; font-weight: bold;">
+						{%= data[i][__("Time")] %}
+					</td>
+				{% } else { %}
+					<td style="text-align:center;">	
+					{%= data[i][__("Time")] %}
+					</td>
+				{% } %}
+
+
+				{% if(data[i][__("Time")] == "Total" ||
+				data[i][__("Time")] == "Net Total"){ %}
+				<td style=" text-align:right;font-weight: bold;">
+					{%= data[i][__("Stock Qty")] %}
+				</td>
+				{% } else { %}
+				<td style=" text-align:right;">
+					{%= data[i][__("Stock Qty")] %}
+				</td>
+				{% } %}
+
+				<td style=" text-align:right;">
+					{%= data[i][ __("Rate")] %}
+				</td>
+
+				{% if(data[i][__("Time")] == "Total" ||
+				data[i][__("Time")] == "Net Total"){ %}
+					{% if(data[i][__("Amount")]) { %}
+					<td style=" text-align:right; font-weight: bold;">
+						{%= format_number(data[i][__("Amount")], null, 2) %}
+						</td>
+						
+					{% } else { %}
+						<td style=" text-align:right;">{%= __("")  %}
+						</td>
+					{% } %}
+
+				{% } else { %}
+					{% if(data[i][__("Amount")]) { %}
+					<td style=" text-align:right;">
+						{%= format_number(data[i][__("Amount")], null, 2) %}
+						</td>
+						
+					{% } else { %}
+						<td style=" text-align:right;">{%= __("")  %}
+						</td>
+					{% } %}
+				{% } %}
+			</tr>
+		{% } %}
+	</tbody>	
+</table>
+
+<p class="text-right text-muted">Printed On {%= frappe.datetime.str_to_user(frappe.datetime.get_datetime_as_string()) %}</p>
+
